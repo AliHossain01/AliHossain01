@@ -1,6 +1,6 @@
 ## Hi, I'm Ali Hossain 👋
 <p>
-👑 I am Front-End Web Developer <br> 
+👑 I am a Front-End Web Developer <br> 
 🖊️ Love to write code <br> 
  </p> 
 
